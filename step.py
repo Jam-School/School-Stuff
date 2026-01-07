@@ -1,4 +1,4 @@
-steps = int(input("How many steps do you want? ))
+steps = int(input("How many steps do you want? "))
 timer = open('timer.txt','w')
 
 for num in range(1, steps + 1):
